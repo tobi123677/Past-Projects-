@@ -2,7 +2,7 @@ Caregiver – Mobile Application
 
 Caregiver is a team-developed mobile application designed to make it easier for caregivers to assign and manage tasks for individuals in their care. The project involved UI/UX design, system architecture, database design, API communication, and cloud-based media storage using technologies including React Native, Python/Flask, PostgreSQL, and AWS.
 
-[View the Caregiver Design Document](docs/Caregiver-Design-Document.pdf)
+[View the Caregiver Design Document](Caregiver-Design-Document.pdf)
 
 Caregiver – UI/UX Prototype
 
