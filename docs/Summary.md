@@ -29,5 +29,3 @@ Together, these projects demonstrate a technical foundation spanning systems ana
 These skills now support my work involving cybersecurity readiness in educational environments, where I am applying systems analysis, data-informed decision-making, cybersecurity principles, and educational resource development to help make cybersecurity practices more accessible and actionable for K-12 users.
 
 Note: These materials are provided as samples of prior academic work. Projects involving government, healthcare, or other organizational settings were based on academic or simulated scenarios unless otherwise stated.
-
-This is also a good README for the GitHub repository you reference in the NIW petition because it gives someone who opens the repository an immediate explanation of what they're looking at and why the older projects are relevant to your current cybersecurity-readiness work, rather than leaving USCIS to interpret a collection of unrelated school assignments.
